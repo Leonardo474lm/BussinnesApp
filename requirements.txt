@@ -5,5 +5,5 @@ scikit-learn
 matplotlib
 seaborn
 imbalanced-learn
-imblearn.over_sampling
+imblearn
 SMOTE
