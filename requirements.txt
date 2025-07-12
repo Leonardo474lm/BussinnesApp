@@ -5,3 +5,6 @@ scikit-learn
 matplotlib
 seaborn
 imbalanced-learn
+imblearn
+SMOTE
+imblearn.over_sampling
